@@ -1,0 +1,8 @@
+Flask
+gunicorn
+duckdb
+pyarrow
+google-cloud-storage
+pandas
+fsspec 
+gcsfs
